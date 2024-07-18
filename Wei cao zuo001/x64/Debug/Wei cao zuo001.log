@@ -1,0 +1,3 @@
+﻿  start.c
+C:\Users\35316\Desktop\.vs\Wei cao zuo001\Wei cao zuo001\start.c(13,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Wei cao zuo001.vcxproj -> C:\Users\35316\Desktop\.vs\Wei cao zuo001\x64\Debug\Wei cao zuo001.exe
